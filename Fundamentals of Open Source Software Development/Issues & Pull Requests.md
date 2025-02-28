@@ -142,4 +142,3 @@ If you **don't want to auto-close** an issue, mention it **without closing ke
 🔗 **More Info:**
 
 -   [GitHub Docs: Linking PRs to Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
--   [GitHub Docs: Searching Issues & PRs](https://docs.github.com/en/issues/tracking-your-work-with-issues/searching-issues-and-pull-requests)
