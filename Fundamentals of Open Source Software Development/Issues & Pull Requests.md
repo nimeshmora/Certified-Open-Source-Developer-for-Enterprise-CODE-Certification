@@ -35,7 +35,8 @@ Proposed code changes submitted by contributors.
 1️⃣ **Fork & Clone the Repository** (if contributing to an external repo):
 
 -   Click **Fork** (top-right) → Clone the repo using `git clone <repo-url>`.\
-    2️⃣ **Create a New Branch**:
+
+2️⃣ **Create a New Branch**:
 
 `git checkout -b feature-branch-name`
 
