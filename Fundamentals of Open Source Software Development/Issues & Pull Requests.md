@@ -37,26 +37,14 @@ Proposed code changes submitted by contributors.
 -   Click **Fork** (top-right) → Clone the repo using `git clone <repo-url>`.\
     2️⃣ **Create a New Branch**:
 
-sh
-
-CopyEdit
-
 `git checkout -b feature-branch-name`
 
 3️⃣ **Make Your Changes** & **Commit**:
-
-sh
-
-CopyEdit
 
 `git add .
 git commit -m "Added feature XYZ"`
 
 4️⃣ **Push the Changes to Your Fork**:
-
-sh
-
-CopyEdit
 
 `git push origin feature-branch-name`
 
@@ -88,10 +76,6 @@ CopyEdit
 
 ✅ Example:
 
-sh
-
-CopyEdit
-
 `Fixes #42 - Updated login validation logic.`
 
 🔹 When merged, **Issue #42** will automatically close.
@@ -105,10 +89,6 @@ CopyEdit
 -   `Resolves owner/repository#issue-number`
 
 ✅ Example:
-
-sh
-
-CopyEdit
 
 `Fixes octocat/example-repo#123 - Updated API error handling.`
 
@@ -124,10 +104,6 @@ CopyEdit
 
 ✅ Example:
 
-sh
-
-CopyEdit
-
 `Fixes #12, #15, and #20 - Optimized database queries.`
 
 🔹 When merged, Issues **#12, #15, and #20** will automatically close.
@@ -137,10 +113,6 @@ CopyEdit
 If you **don't want to auto-close** an issue, mention it **without closing keywords**:
 
 ✅ Example:
-
-sh
-
-CopyEdit
 
 `This PR addresses issue #50 but requires further testing.`
 
